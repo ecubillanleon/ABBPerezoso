@@ -12,7 +12,7 @@ esto, se insertan todos los nodos menores a la raíz para que se construya el su
 después se insertan todos los nodos mayores a la raíz para que se construya el subárbol derecho.
 El resultado de esta operación es un ABB lo más balanceado posible.
 
-# *El proyecto consiste en programar un ABB perezoso con las siguientes especificaciones*:
+# *El proyecto consiste en programar un ABB perezoso con las siguientes especificaciones:*
 
 * Para efectos de un arreglo ordenado se utilizará una lista que se comportará como una
 cola con prioridad con la salvedad de que tendrá una referencia adicional que siempre
